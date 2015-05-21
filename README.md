@@ -1,2 +1,2 @@
 # img
-This repository is used to store Tiandechi.com's image and etc.
+This repository is used to store [Tiandechi](tiandechi.com)'s image and etc.
